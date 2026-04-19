@@ -6,3 +6,4 @@ question answering.
 - Python 3.8 or later
 
 #### Install Python using Miniconda
+### (Optional) Setup you command line interface for better readability
