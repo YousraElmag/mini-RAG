@@ -11,6 +11,7 @@ question answering.
 ## Installation 
 ### Install the required packages
  # $ pip install -r requirements.txt
+  # $conda activate mini-rag
  
 
 ### setup the environment variables
